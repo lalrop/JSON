@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
 	"name": "LuisRodriguez",
+=======
+	"name": "fcc-learn-npm-package-json",
+>>>>>>> agregand author
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -10,5 +14,7 @@
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
-	}
+	},
+
+	"author":"Luis Rodriguez"
 }
